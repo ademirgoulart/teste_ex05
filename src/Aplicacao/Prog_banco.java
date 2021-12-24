@@ -11,6 +11,7 @@ public class Prog_banco {
 		// TODO Auto-generated method stub
 		//  comentario incluido as 10:36
 		//  novo comentarios as 10:50
+		// outro dia  24
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		Cliente cli;
